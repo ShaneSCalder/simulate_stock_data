@@ -40,6 +40,9 @@ This script validates the simulated data to ensure it meets the predefined stati
 - Removes any simulated data that falls outside the acceptable range.
 - Renumbers the remaining simulations and saves them to a new `simulated` folder.
 
+### `Kaggle data set location`
+[Simulated Stock Data](https://www.kaggle.com/datasets/shanecalder/simulated-stocks-data/data)
+
 ## How the Data was Created
 1. **Historical Data Fetching**: The `pull_data.py` script fetches historical stock data from Yahoo Finance for a specified time period (60 days) and interval (30 minutes). The script analyzes this data to extract important statistical parameters such as percentiles and standard deviations.
 
