@@ -1,0 +1,38 @@
+{
+    "30_min_intervals": {
+        "mean_change": 0.00041306491183950623,
+        "std_dev_change": 0.010994576113708437,
+        "percentiles": {
+            "10th": -0.00904973524462187,
+            "90th": 0.009778858614056763,
+            "extremes": {
+                "5th_percentile": -0.013939304285732345,
+                "95th_percentile": 0.015287943602093242
+            }
+        }
+    },
+    "daily_changes": {
+        "mean_change": 0.003772472916373216,
+        "std_dev_change": 0.035039325123199454,
+        "percentiles": {
+            "10th": -0.036586696740317115,
+            "90th": 0.047437032318975,
+            "extremes": {
+                "5th_percentile": -0.06467586349831575,
+                "95th_percentile": 0.06528729254342597
+            }
+        }
+    },
+    "weekly_changes": {
+        "mean_change": 0.015902923152061293,
+        "std_dev_change": 0.07883153784333205,
+        "percentiles": {
+            "10th": -0.04996001295281242,
+            "90th": 0.1003804852049112,
+            "extremes": {
+                "5th_percentile": -0.066926374832101,
+                "95th_percentile": 0.14111673124685042
+            }
+        }
+    }
+}
